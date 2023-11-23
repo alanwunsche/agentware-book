@@ -3,5 +3,5 @@
 Public preview of "Agentware" coming soon.
 
 
-### Contact
+### Contact the Author
 [https://cal.com/alanwunsche](https://cal.com/alanwunsche)
