@@ -1,2 +1,3 @@
-# agentware-book
-Public preview of "Agentware" 
+# Agentware 
+
+Public preview of "Agentware" coming soon.
