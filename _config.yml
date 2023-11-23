@@ -1,4 +1,6 @@
 remote_theme: pages-themes/slate@v0.2.0
 
 title: Agentware
+subtitle: subtitle
 description: The Coming Revolution Automating the Future of Work and Society
+author: Alan Wunsche
