@@ -140,17 +140,17 @@ She excitedly reported back on her discovery of "Generative AI" to the team. The
 ### Birth of an AI-First Platform 
 With her co-founders, Ana quickly embarked on a relentless pursuit to harness AI's potential, each contributing a unique blend of skills and perspectives that enriched MarketSphere's DNA. As Petra delved into the behavioral economics of user interactions, Jimmy orchestrated a global product strategy, and Sergio ensured a resonant user experience across the platform, Ana directed the integration of AI, morphing MarketSphere into an entity much larger than the sum of its parts.
 
-Over the coming years she recalls, However, the path to innovation was laden with trials. The night Ana received a barrage of vitriolic messages condemning MarketSphere's AI initiatives was a stark reminder of the resistance they faced. The weight of leading her team through the storm often left her restless, the silence of the night amplifying the doubts that crept into her mind. Would the world ever see the humane intentions behind their digital innovations? The ethical quandary of autonomous digital workers wasn't lost on Ana—she grappled with the moral implications of displacing human labor, the potential for bias in AI decision-making, and the opacity of algorithmic operations in their platform. Yet, she saw a future where AI could alleviate the mundane, leaving humans to pursue more meaningful endeavors.
+Over the coming years she recalls, however, the path to innovation was laden with trials. The night Ana received a barrage of vitriolic messages condemning MarketSphere's AI initiatives was a stark reminder of the resistance they faced. The weight of leading her team through the storm often left her restless, the silence of the night amplifying the doubts that crept into her mind. Would the world ever see the humane intentions behind their digital innovations? The ethical quandary of autonomous digital workers wasn't lost on Ana—she grappled with the moral implications of displacing human labor, the potential for bias in AI decision-making, and the opacity of algorithmic operations in their platform. Yet, she saw a future where AI could alleviate the mundane, leaving humans to pursue more meaningful endeavors.
 
 One late evening, the light of the city casting long shadows in the boardroom, the co-founders found themselves embroiled in a heated discussion. The room crackled with the tension of differing visions. 
 
 Petra advocated for clearer communication of their AI principles to the public.
 
-Jimmy, his voice steady but firm, argued for a cautious approach given the global variances in AI acceptance.
+"We need to think about the impact we're having beyond our four walls", Jimmy's voice was steady but firm, arguing for a cautious approach given the global variances in AI acceptance.
 
-Sergio listened, his eyes moving between his partners, before calmly proposing a balanced approach, a blend of transparency and strategic narrative.
+Sergio listened, his eyes moving between his partners, before calmly proposing a balanced approach, a blend of transparency and strategic narrative: "We need to keep moving forward, but thoughtfully include diverse points of view."
 
-Ana, her eyes fixed on the cityscape beyond, weighed the words of her co-founders, the responsibility of steering MarketSphere through the storm weighing heavily on her shoulders.
+Ana, her eyes fixed on the cityscape beyond, weighed the words of her team, the responsibility of steering MarketSphere through the storm weighing heavily on her shoulders.
 
 Despite having a seasoned Board, MarketSphere found itself entangled in a web of challenges. Creative tensions simmered among the leadership team, each with distinct visions on steering the technology. 
 
@@ -171,7 +171,13 @@ In October 2023, the MarketSphere team attended the inaugural "**AI Engineer Sum
 
 The team found themselves ultimately orchestrating a marketplace with a minimal human workforce, each cog in the machine executed by a legion of AI co-pilots.
 
-What is obvious now in hindsight is that 2023 ushered in the new category of "Agentware", a full suite of software infrastructure and front end tools stack that made AI digital workers and digital assistants possible. Agentware would come to include open source LLMs that were fine-tuned to accomplish a specific domain specific task such as marketing or finance.    
+Then in November of 2023, OpenAI had their big DevDay reveal. Ana was in the audience when GPTs were announced. These self-serve versions of ChatGPT could have their own documents which would be accessible knowledge. The demos showed connections to third-party services such as Zapier, making it possible to connect to external services. OpenAI also released their Assistants API.
+
+Ana immediately realized that multimodal ChatGPT could be customized to accomplish a variety of tasks for virtually every area of most businesses, let alone MarketSphere. The tingle of inspiration spread through her body and she knew this was the direction to pursue.
+
+Then a week later, Microsoft went all in on "copilots", promising to infuse these assistants into their software stack. The vision was clear to her ... whatever you called them, agents, assistants or AI employees, a new form of digital knowledge worker had arrived. 
+
+What is obvious now in hindsight is that 2023 ushered in a new category of "Agentware", a full suite of software infrastructure and front end tools stack that made AI digital workers and digital assistants possible. Agentware would come to include open source LLMs that were fine-tuned to accomplish a specific domain specific task such as marketing or finance.    
 
 ### Orchestrating A Symphony of Co-pilots
 As Ana sips her morning coffee today, the overnight analytics echo the symphony of orchestrated efforts between her human team and their AI empployees. Each sector of MarketSphere, from marketing to cybersecurity, hums with the melody of innovation, driving the narrative forward towards a future where human-AI collaboration is not just a possibility, but a reality forging a new era of digital commerce.
