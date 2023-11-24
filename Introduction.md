@@ -112,10 +112,10 @@ In recent weeks, key EU member states, including France, Germany, and Italy, hav
 ### U.S. Department of State Enterprise AI Strategy ("EAIS")
  The Department of State will responsibly and securely harness the full capabilities of trustworthy artificial intelligence to advance United States diplomacy and shape the future of statecraft.
 The EAIS was releasd on November 23, 2023 with 4 goals:
-- 1. Leverage Secure AI Infrastructure : Integrate AI technologies into a sustainable and secure AI-enabling infrastructure to build and scale a variety of AI applications across the Department.
-- 2. Foster a Culture the Embraces AI Technology: Empower a dynamic workforce whose diverse needs for AI are served through training, a culture of continuous learning, and hiring for in-demand AI skills in ways that uphold the highest levels of data and scientific integrity.
-- 3. Ensure AI is Applied Responsibly: Establish the enterprise capacity to ensure trustworthy and ethical AI use, manage algorithmic risk, and assess data quality while providing appropriate access to AI-ready data to inform decision-making and operations.
-- 4. Innovate: Identify, experiment, and scale a range of successful solutions to be an active innovator in applied AI, while forming creative partnerships with responsible innovators outside of the Department to compound our successes.
+  1. Leverage Secure AI Infrastructure : Integrate AI technologies into a sustainable and secure AI-enabling infrastructure to build and scale a variety of AI applications across the Department.
+  2. Foster a Culture the Embraces AI Technology: Empower a dynamic workforce whose diverse needs for AI are served through training, a culture of continuous learning, and hiring for in-demand AI skills in ways that uphold the highest levels of data and scientific integrity.
+  3. Ensure AI is Applied Responsibly: Establish the enterprise capacity to ensure trustworthy and ethical AI use, manage algorithmic risk, and assess data quality while providing appropriate access to AI-ready data to inform decision-making and operations.
+  4. Innovate: Identify, experiment, and scale a range of successful solutions to be an active innovator in applied AI, while forming creative partnerships with responsible innovators outside of the Department to compound our successes.
 
 ### Industry Reactions and Adaptions
 Well known platforms such as YouTube outline their approaches to responsible AI: “We’ll introduce updates that inform viewers when the content they’re seeing is synthetic.”
