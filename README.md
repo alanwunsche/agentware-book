@@ -14,7 +14,7 @@ Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks
 <br /><br />
 [Chapter 2: Immersed in the Marketplace](./Chapter-2)
 <br /><br />
-[Chapter 3. The Trials Begin](./Chapter-3)</a>
+[Chapter 3. The Trials Begin](./Chapter-3)
 <br /><br /><br />
 
 ### Part II. The Challenge
