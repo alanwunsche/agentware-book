@@ -79,12 +79,8 @@ October 19, 2023
 
 ---
 <br />
-<br />
-<br />
 
 Next: [Introduction](./Introduction)
-
-<br />
 <br />
 
 ---
