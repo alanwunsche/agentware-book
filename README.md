@@ -1,7 +1,10 @@
 # Overview 
 
 Ana Patel, a determined and forward-thinking software engineer at MarketSphere, rises from Product Manager to CEO, tackling ethical challenges and pioneering AI advancements in a competitive landscape. Amidst internal strife over rogue AI agents and external pressures for AI safety and ethics, she steers her company through the turbulent waters of an AI-centric, hyper-personalized digital commerce era.
- 
+
+## About the Author
+
+Alan Wunsche, CEO of Leading Knowledge Labs, has been a pioneer in the technological landscape for over 30 years, with a career that spans across diverse fields from finance transformation and complex organizational change programs at PwC and Deloitte to large scale risk information systems at Scotiabank. An advocate for technological advancement, Alan co-founded Blockchain Canada and TokenFunder, making pioneering contributions to Canada's digital securities marketplace. His current focus at Leading Knowledge Labs is guiding organizations through the complexities of AI, leveraging his deep technical expertise to transform enterprise processes. Agentware reflects his keen interest in how autonomous software AI agents will reshape society, exemplifying his ongoing commitment to using technology for growth and innovation.
 
 ## Chapter Previews
 
