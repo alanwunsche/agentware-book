@@ -96,18 +96,15 @@ The popularity of generative AI tools, like Dall-E, Stable Diffusion, and ChatGP
 
 ## AI Safety and Responsible AI
 The global adoption of AI has been accompanied by a patchwork of responses and regulatory approaches. Early in 2023, a law targeting AI bias came into effect in New York, reflecting a growing concern over the ethical implications of AI and its applications in sensitive areas such as hiring​​.
-    https://www.techtarget.com/searchenterpriseai/feature/Four-AI-trends-to-look-for-in-2023#:~:text=The%20AI%20landscape%20changes%20daily%2C,trends%20in%20the%20upcoming%20year
 
 ### U.S. President Biden's Executive Order
 On October 30, 2023, the US Executive Order on AI was released, days before the UK's Global AI Safety Summit.  The US announced AI Safety Institute and guidelines of government procurement of AI technologies. 
 
 ### The U.K. AI Safety Summit
 The AI Safety Summit 2023, held at Bletchley Park, Buckinghamshire, was a significant global event, bringing together international governments, leading AI companies, civil society groups, and research experts. The summit focused on assessing the risks of AI, particularly at the frontier of development, and on fostering internationally coordinated action to mitigate these risks. The outcome included the Bletchley Declaration, a joint agreement aimed at the safe development of frontier AI​​​​. Furthermore, top AI firms outlined their safety policies, promoting transparency and best practices within the AI community​​.
-    https://www.gov.uk/government/topical-events/ai-safety-summit-2023#:~:text=,safe%20development%20of%20Frontier%20AI
 
 ### E.U. AI Act
 In recent weeks, key EU member states, including France, Germany, and Italy, have overcome significant disagreements regarding the EU's proposed AI Act, reaching a joint agreement expected to accelerate negotiations at the European level. Previously, the stance of these countries against certain regulations threatened to derail the legislation's progress in the European Parliament. Their agreement supports voluntary yet binding commitments on both small and large AI providers within the EU. The proposed approach emphasizes the need for conduct and transparency rules to apply universally, without initially imposing sanctions but allowing for their future establishment if code of conduct violations are identified. A European authority is anticipated to oversee compliance with these standards, focusing on regulating AI applications rather than the technology itself​​​.
-- https://www.euronews.com/next/2023/11/19/eu-ai-act-germany-france-and-italy-reach-agreement-on-the-future-of-ai-regulation-in-europ
 
 ### U.S. Department of State Enterprise AI Strategy ("EAIS")
  The Department of State will responsibly and securely harness the full capabilities of trustworthy artificial intelligence to advance United States diplomacy and shape the future of statecraft.
@@ -119,8 +116,6 @@ The EAIS was releasd on November 23, 2023 with 4 goals:
 
 ### Industry Reactions and Adaptions
 Well known platforms such as YouTube outline their approaches to responsible AI: “We’ll introduce updates that inform viewers when the content they’re seeing is synthetic.”
-    https://blog.youtube/inside-youtube/our-approach-to-responsible-ai-innovation/
-
 
 
 <br />* * * <br />
