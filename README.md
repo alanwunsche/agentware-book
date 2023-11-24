@@ -9,7 +9,6 @@ Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks
 [Introduction](./Introduction)
 
 ### Part I. The Awakening
-<br />
 [Chapter 1: Unveiling Possibilities](./Chapter-1)
 <br /><br />
 [Chapter 2: Immersed in the Marketplace](./Chapter-2)
@@ -18,7 +17,6 @@ Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks
 <br /><br />
 
 ### Part II. The Challenge
-<br />
 [Chapter 4. Allies in the Digital Frontier](./Chapter-4)
 <br /><br />
 [Chapter 5. Crisis in Code](./Chapter-5)
@@ -29,7 +27,6 @@ Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks
 <br /><br />
 
 ### Part III. The Transformation 
-<br />
 [Chapter 8. Battle for the Future](./Chapter-8)
 <br /><br />
 [Chapter 9. Reshaping the Digital Landscape](./Chapter-9)
