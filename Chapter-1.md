@@ -198,4 +198,9 @@ Next:
 <a href="https://cal.com/alanwunsche">https://cal.com/alanwunsche</a> | <a href="https://x.com/alanwunsche">DM @alanwunsche</a> | <a href="https://linkedin.com/in/alanwunsche">DM on Linkedin</a>
 <br /><br />
 <hr />
-<a href="https://github.com/alanwunsche/agentware-book/blob/main/Chapter-1/Chapter-1-References.md">Chapter 1 References</a>
+Chapter 1 References
+
+
+---
+
+[Home](./)
