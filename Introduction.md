@@ -150,4 +150,4 @@ Part I: The Awakening. [Chapter 1: Unveiling Possibilities](./Chapter-1)
 
 ---
 
-[Home](./) | [Chapter 1](./Chapter-1)
+[Home](./) | [Chapter 1: Unveiling Possibilities](./Chapter-1)
