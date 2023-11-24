@@ -5,7 +5,7 @@ Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks
 ## Preview
 Public preview of "Agentware" coming soon.
 
-[Preface](https://github.com/alanwunsche/agentware-book/blob/main/Preface.md)
+[Preface](./Preface)
 
 [Introduction](./Introduction)
 
