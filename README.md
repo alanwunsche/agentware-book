@@ -2,7 +2,7 @@
 
 Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks on a transformative journey from product manager to CEO, navigating ethical dilemmas and groundbreaking innovations in a competitive world increasingly dominated by AI, while confronting the societal challenges of ensuring AI safety and ethical practices in a rapidly evolving digital commerce landscape.
 
-## Preview
+## Chapter Previews
 
 [Preface](./Preface)
 <br />
@@ -10,7 +10,7 @@ My Journey from Business Intelligence to Artificial Intelligence
 
 [Introduction](./Introduction)
 <br />
-Setting the Stage for Agentware
+A Look at the State of AI in 2023; Setting the Stage for Agentware
 
 ### Part I. The Awakening
 [Chapter 1: Unveiling Possibilities](./Chapter-1)
