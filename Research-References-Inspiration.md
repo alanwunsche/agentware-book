@@ -17,13 +17,16 @@ US Executive Order and AI Safety Institute
 ## Chapter 1
 
 AutoGPT
+- ...
 
 OpenAI ChatGPT; GPTs; Assistants API
+- ...
 
-Lindy.ai
-
-Microsoft Copilots
-
+Lindy (https://lindy.ai)
+- Your AI Employee
+  
+Microsoft Copilots (https://copilot.microsoft.com)
+- (Copilots everywhere)
 
 
 
@@ -31,10 +34,19 @@ Microsoft Copilots
 
 ## Chapter 2
 
-Ada
+Ada (https://ada.cx)
+- "A full customer service team, powered by AI"
+- AI Agents Reasoning Engine
 
-YouAI MindStudio
+YouAI MindStudio (https://youai.ai)
+- The Fastest Way To Build AI-Powered Apps
+- Create custom AIs for consumers, SMBs, and enterprises - no coding required.
 
+Multimodal (https://multimodal.dev)
+- Custom AI Agents
+
+Quora Poe (https://Poe.com)
+- Poe is a platform that lets people ask questions, get instant answers, and have back-and-forth conversations with a wide variety of AI-powered bots. 
 
 ## Chapter 3
 
