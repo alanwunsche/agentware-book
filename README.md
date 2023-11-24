@@ -21,7 +21,7 @@ Ana Patel, CEO of MarketSphere, showcases the advanced capabilities of her AI ag
 <br /><br />
 [Chapter 2: Immersed in the Marketplace](./Chapter-2)
 <br />
-Ana Patel, MarketSphere's Chief Product Officer, begins to steer the company towards an AI-centric future.
+As MarketSphere's Chief Product Officer, Ana begins to steer the company towards an AI-centric future in 2024.
 <br /><br />
 [Chapter 3. The Trials Begin](./Chapter-3)
 <br />
