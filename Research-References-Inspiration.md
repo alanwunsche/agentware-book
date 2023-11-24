@@ -8,7 +8,7 @@ This section catalogs the actual products and research that have inspired variou
 
 ## Chapter 1
 
-Reasearch coming soon...
+Research coming soon...
 <br />
 
 ## Chapter 2
