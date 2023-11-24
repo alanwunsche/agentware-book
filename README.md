@@ -4,13 +4,13 @@ Ana Patel, a determined and forward-thinking software engineer at MarketSphere, 
 
 ## About the Author
 
-Alan Wunsche, CEO of Leading Knowledge Labs, has been a pioneer in the technological landscape for over 30 years, with a career that spans across diverse fields from finance transformation and complex organizational change programs at top-tier consultancies (PwC and Deloitte) to business intelligence and large scale risk information systems at Scotiabank to building and advising SaaS startups. An advocate for technological advancement, Alan co-founded Blockchain Canada and TokenFunder/TokenGX, achieving ground-breaking regulatory advancements for digital securities in Canada's private capital markets. His current focus at Leading Knowledge is guiding organizations through the complexities of AI, leveraging his deep technical expertise to transform enterprise processes. A techno-optimist, Alan's futuristic book project "Agentware" reflects his keen interest in how autonomous software AI agents will reshape society.
+Alan Wunsche, CEO of Leading Knowledge Labs, has been a pioneer in the technological landscape for over 30 years, with a career that spans across diverse fields from finance transformations and complex organizational change programs at top-tier consultancies (PwC and Deloitte) to business intelligence and large scale risk information systems at Scotiabank to building and advising SaaS startups. An advocate for technological advancement, Alan co-founded Blockchain Canada and TokenFunder/TokenGX, achieving ground-breaking regulatory advancements for digital securities in Canada's private capital markets. His current focus at Leading Knowledge is guiding organizations through the complexities of AI, leveraging his deep technical expertise to transform enterprise processes. A techno-optimist, Alan's futuristic book project "Agentware" reflects his keen interest in how autonomous software AI agents will reshape society.
 
 ## Chapter Previews
 
 [Preface](./Preface)
 <br />
-> My Journey from Business Intelligence to Artificial Intelligence
+> My Journey from Business Intelligence to Artificial Intelligence.
 
 [Introduction](./Introduction)
 <br />
