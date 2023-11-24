@@ -20,20 +20,20 @@ Alan Wunsche, CEO of Leading Knowledge Labs, has been a pioneer in the technolog
 [Chapter 1: Unveiling Possibilities](./Chapter-1)
 <br />
 > Ana Patel, CEO of MarketSphere, showcases the advanced capabilities of her AI agents in 2030, and reflects on her journey from Chief Product Officer in 2023. 
-<br /><br />
+
 [Chapter 2: Immersed in the Marketplace](./Chapter-2)
 <br />
 > As MarketSphere's Chief Product Officer, Ana begins to steer the company towards an AI-centric future in 2024.
-<br /><br />
+
 [Chapter 3. The Trials Begin](./Chapter-3)
 <br />
 > Ana faces initial obstacles and ethical dilemmas related to AI safety as she witnesses AI agents' actions that inadvertently spread misinformation. She grapples with the need for safeguards.
-<br /><br />
+
 ### Part II. The Challenge
 [Chapter 4. Allies in the Digital Frontier](./Chapter-4)
 <br />
 > Ana forms alliances with colleagues who share her concerns about AI safety. Together, they begin advocating for stronger regulations and safeguards on the platform.
-<br /><br />
+
 [Chapter 5. Crisis in Code](./Chapter-5)
 <br />
 .
