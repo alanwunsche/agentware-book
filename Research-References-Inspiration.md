@@ -9,12 +9,16 @@ This section catalogs the actual products and research that have inspired variou
 
 [State of AI in 2023. McKinsey Quantum Black](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-AIs-breakout-year)
 
+UK Safety Summit
+
+US Executive Order and AI Safety Institute
+
 
 ## Chapter 1
 
 AutoGPT
 
-OpenAI ChatGPT, GPTs
+OpenAI ChatGPT; GPTs; Assistants API
 
 Lindy.ai
 
@@ -22,10 +26,14 @@ Microsoft Copilots
 
 
 
+
 <br />
 
 ## Chapter 2
 
+Ada
+
+YouAI MindStudio
 
 
 ## Chapter 3
