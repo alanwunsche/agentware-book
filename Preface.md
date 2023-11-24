@@ -66,7 +66,7 @@ To make it accessible, my objective is to write a futuristic view of today's age
 ### "Agentware" 
 The book's working title is ***"Agentware - The Coming Revolution Automating the Future of Work and Society"***, a futuristic look into how agentware will transform how we work and live.   
 
-I'll be publishing draft chapters at https://github.com/alanwunsche/agentware-book and hope you'll share your constructive feedback.
+I'll be publishing draft chapters at <a href="http://agentware.ai" target="_blank">Agentware.ai</a> and hope you'll share your constructive feedback.
 
 Just know that this is already feeling like a science fiction book, taking what we see now and imperfectly projecting out a story into the future. 
 
@@ -90,9 +90,7 @@ Next: [Introduction](./Introduction)
 
 ## About Alan Wunsche 
 
-Alan Wunsche (https://github.com/alanwunsche/about) serves as the CEO of Leading Knowledge Labs (https://leadingknowledge.com), an AI research and consulting firm centered around the innovative applications of AI and cloud-based data technologies, particularly in reshaping the future of enterprise processes.
-
-With a rich and diverse business background, Alan has been at the forefront of technological evolutions. 
+Alan Wunsche (https://github.com/alanwunsche/about) serves as the CEO of Leading Knowledge Labs (https://leadingknowledge.com), an AI research and consulting firm centered around the innovative applications of AI and cloud-based data technologies, particularly in reshaping the future of enterprise processes. With a rich and diverse business background, Alan has been at the forefront of multiple technological evolutions. 
 
 In the initial stages of his 30 year career, he earned a BSc(Chemistry), an Ivey Business School MBA and became a Chartered Accountant. With a passion for applying technology, he spearheaded Knowledge Management globally at PwC's management consulting practice. He became known as a process reengineering and organizational change expert, having implemented ERP and Business Intelligence systems and designed future state organizations that melded process, people and technological change, and led "Future of Finance - Best Practices and Benchmarking" initiatives.
 
