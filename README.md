@@ -29,9 +29,11 @@ Ana faces initial obstacles and ethical dilemmas related to AI safety as she wit
 <br />
 ### Part II. The Challenge
 [Chapter 4. Allies in the Digital Frontier](./Chapter-4)
-<br /><br />
+<br />
+Ana forms alliances with colleagues who share her concerns about AI safety. Together, they begin advocating for stronger regulations and safeguards on the platform.<br />
 [Chapter 5. Crisis in Code](./Chapter-5)
-<br /><br />
+<br />
+<br />
 [Chapter 6. Awakening Conscience](./Chapter-6)
 <br /><br />
 [Chapter 7. Journey to Redemption](./Chapter-7)
