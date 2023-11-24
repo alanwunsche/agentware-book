@@ -14,7 +14,7 @@ Agentware - The Coming Revolution Automating the Future of Work and Society
 
 <br />
 
-### AI Assitants and Advisors
+### AI Assistants and Advisors
 It's 2030.
 
 The screen flickered to life, projecting a holographic display that filled Ana Patel's office with glowing data streams and interactive charts. Outside, the early morning sun cast a golden hue over the Bay, but inside, Ana's focus was entirely on the digital maelstrom swirling before her.
