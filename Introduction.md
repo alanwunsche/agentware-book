@@ -89,7 +89,7 @@ Recent developments in open source AI models, particularly Mistral, have been in
 
 ### Forecasts about the Future
 The AI industry is anticipating bringing newly digital knowledge workers in the form of autonomous AI, and the substantial business disruptions due to generative AI, organizations are predicting significant changes to their workforces, including cuts in certain areas and large reskilling efforts to address evolving talent needs​​.
-    https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-AIs-breakout-year)
+    
 
 The popularity of generative AI tools, like Dall-E, Stable Diffusion, and ChatGPT, is set to continue, with expectations high for their impact on industry competition and operations​​.
 
