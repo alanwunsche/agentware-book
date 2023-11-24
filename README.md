@@ -12,7 +12,7 @@ My Journey from Business Intelligence to Artificial Intelligence
 
 [Introduction](./Introduction)
 <br />
-A look at the State of AI in 2023; Setting the stage for Agentware
+A deep dive into the rapid acceleration of Generative AI during 2023, to set the stage for Agentware.
 
 ### Part I. The Awakening
 [Chapter 1: Unveiling Possibilities](./Chapter-1)
@@ -21,7 +21,7 @@ Ana Patel, CEO of MarketSphere, showcases the advanced capabilities of her AI ag
 <br />
 [Chapter 2: Immersed in the Marketplace](./Chapter-2)
 <br />
-Ana Patel, MarketSphere's Chief Product Officer, steers the company towards an AI-centric future.
+Ana Patel, MarketSphere's Chief Product Officer, begins to steer the company towards an AI-centric future.
 <br />
 [Chapter 3. The Trials Begin](./Chapter-3)
 <br />
