@@ -82,7 +82,7 @@ October 19, 2023
 <br />
 <br />
 
-Next: [Introduction](./introduction)
+Next: [Introduction](./Introduction)
 
 <br />
 <br />
