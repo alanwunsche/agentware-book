@@ -25,7 +25,7 @@ Ana Patel, MarketSphere's Chief Product Officer, begins to steer the company tow
 <br />
 [Chapter 3. The Trials Begin](./Chapter-3)
 <br />
-...
+Ana faces initial obstacles and ethical dilemmas related to AI safety as she witnesses AI agents' actions that inadvertently spread misinformation. She grapples with the need for safeguards.
 <br />
 ### Part II. The Challenge
 [Chapter 4. Allies in the Digital Frontier](./Chapter-4)
