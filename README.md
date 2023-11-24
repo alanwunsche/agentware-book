@@ -5,13 +5,18 @@ Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks
 ## Preview
 
 [Preface](./Preface)
+<br />
 My Journey from Business Intelligence to Artificial Intelligence
 
 [Introduction](./Introduction)
+<br />
+Setting the Stage for Agentware
 
 ### Part I. The Awakening
 [Chapter 1: Unveiling Possibilities](./Chapter-1)
-<br /><br />
+<br />
+...
+<br />
 [Chapter 2: Immersed in the Marketplace](./Chapter-2)
 <br /><br />
 [Chapter 3. The Trials Begin](./Chapter-3)
