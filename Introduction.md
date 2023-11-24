@@ -4,7 +4,7 @@ Agentware - The Coming Revolution Automating the Future of Work and Society
 
 -->
 
-# Introduction : Agentware, a new software paradigm
+# Introduction
 
 <br />
 
