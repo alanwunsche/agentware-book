@@ -90,9 +90,9 @@ Next: [Introduction](./introduction)
 ---
 
 
-## About Alan Wunsche (https://github.com/alanwunsche/about)
+## About Alan Wunsche 
 
-Alan Wunsche serves as the CEO of Leading Knowledge Labs (https://leadingknowledge.com), an AI research and consulting firm centered around the innovative applications of AI and cloud-based data technologies, particularly in reshaping the future of enterprise processes.
+Alan Wunsche (https://github.com/alanwunsche/about) serves as the CEO of Leading Knowledge Labs (https://leadingknowledge.com), an AI research and consulting firm centered around the innovative applications of AI and cloud-based data technologies, particularly in reshaping the future of enterprise processes.
 
 With a rich and diverse business background, Alan has been at the forefront of technological evolutions. 
 
