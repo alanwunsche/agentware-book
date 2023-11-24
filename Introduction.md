@@ -146,7 +146,7 @@ In Agentware, our protagonist Ana, joins MarketSphere and finds herself at the i
 Next:
 Part I: The Awakening. [Chapter 1: Unveiling Possibilities](./Chapter-1)
 
-<br /><hr /><br />
+<br /><br />
 
 ### Contact and Comment:
 
