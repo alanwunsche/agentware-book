@@ -103,3 +103,5 @@ He subsequently co-founded the grassroots Blockchain Canada non-profit intiative
 Alan's journey exemplifies a commitment to leveraging technology for advancement, growth, and value creation. Today, through Leading Knowledge Labs, Alan is helping organizations navigate the intricate maze of AI, ensuring they harness its potential to redefine their work paradigms. Of the broad AI space, he's keenly interested in how autonomous software AI agents will transform society. Diving in with a deep technical and data background, Alan built "AI CATALYST", an AI news insights builder (https://ai-catalyst.vercel.app/news) with the OpenAI GPT-3.5-turbo and GPT-4 API, Nodejs/Nextjs/React.
 
 Through Leading Knowledge, Alan helps clients with data and AI-focused strategic consulting engagements, executive-level strategic presentations of AI solutions, and conference keynotes.
+
+[Home](./)
