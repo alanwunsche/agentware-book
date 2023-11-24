@@ -78,3 +78,4 @@ If you're building and deploying AI assistants, copilots or agents, please get i
 <br /><br />
 All rights reserved. 2023.
 <br /><br />
+<iframe src="https://embeds.beehiiv.com/3cc28c1e-9ca4-4f1e-9552-89b2f5de0a40" data-test-id="beehiiv-embed" width="480" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
