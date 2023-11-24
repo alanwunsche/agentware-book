@@ -4,7 +4,7 @@
 
 Explore the transformative impact of AI agents, copilots, assistants, and digital knowledge workers on business operations and societal dynamics. Delve into the current challenges and envision a future where AI's presence is both inevitable and pervasive.
 
-Ana Patel, a determined and forward-thinking software engineer at MarketSphere, rises from Product Manager to CEO, tackling ethical challenges and pioneering AI advancements in a competitive digital commerce landscape. Amidst internal strife over rogue AI agents and external pressures for AI safety, ethics and privacy, she steers her company through the turbulent waters of an AI-centric, agentic, and  hyper-personalized era.
+Ana Patel, a determined and forward-thinking software engineer, rises from Product Manager to CEO at MarketSphere, a global digital store that infuses AI into the platform on her watch. She tackles ethical and governance challenges while pioneering AI advancements in a competitive digital commerce landscape. Amidst internal strife over rogue AI agents and external pressures for AI safety, ethics and privacy, she steers her company through the turbulent waters of an AI-centric, agentic, and hyper-personalized era.
 
 Experience Ana's tumultuous journey into the AI frontier and gain insights from her lessons.
 
