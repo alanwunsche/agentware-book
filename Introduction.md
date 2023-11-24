@@ -150,4 +150,4 @@ Next:
 
 ---
 
-[Home](./) | [Chapter 1: Unveiling Possibilities](./Chapter-1)
+[Home](./) . [Chapter 1: Unveiling Possibilities](./Chapter-1)
