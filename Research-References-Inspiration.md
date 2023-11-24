@@ -12,7 +12,16 @@ This section catalogs the actual products and research that have inspired variou
 
 ## Chapter 1
 
-Research coming soon...
+AutoGPT
+
+OpenAI ChatGPT, GPTs
+
+Lindy.ai
+
+Microsoft Copilots
+
+
+
 <br />
 
 ## Chapter 2
