@@ -1,4 +1,5 @@
 # Research, References, and Inspiration
+<br /><br /><br />
 
 ### "Real-World Inspirations Behind the Story"
 
