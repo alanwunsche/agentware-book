@@ -15,7 +15,7 @@ Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks
 [Chapter 2: Immersed in the Marketplace](./Chapter-2)
 <br /><br />
 [Chapter 3. The Trials Begin](./Chapter-3)
-<br /><br /><br />
+<br /><br />
 
 ### Part II. The Challenge
 <br /><br />
@@ -26,7 +26,7 @@ Ana Patel, an ambitious and visionary software engineer at MarketSphere, embarks
 [Chapter 6. Awakening Conscience](./Chapter-6)
 <br /><br />
 [Chapter 7. Journey to Redemption](./Chapter-7)
-<br /><br /><br />
+<br /><br />
 
 ### Part III. The Transformation 
 <br /><br />
