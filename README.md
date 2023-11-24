@@ -64,3 +64,6 @@ The characters in this book are entirely fictional and do not represent any spec
 If you're building and deploying AI assistants, copilots or agents, please get in touch for a research interview:
 <br />
 [https://cal.com/alanwunsche](https://cal.com/alanwunsche)
+<br /><br />
+All rights reserved. 2023.
+<br /><br />
