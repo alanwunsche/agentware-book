@@ -26,6 +26,7 @@ This recent quote from Microsoft Founder Bill Gates is particularly timely, beca
 In another instance, Gates recounts his first encounters with GPT at OpenAI before it became ChatGPT, the way we know it now.  He had a privileged view behind the curtain before most of us and he was himself surprised by the speed of progress in 2022:
 
 > In mid-2022, I was so excited about their work that I gave them a challenge: train an artificial intelligence to pass an Advanced Placement biology exam. Make it capable of answering questions that it hasn’t been specifically trained for. (I picked AP Bio because the test is more than a simple regurgitation of scientific facts — it asks you to think critically about biology.) If you can do that, I said, then you’ll have made a true breakthrough. I thought the challenge would keep them busy for two or three years. They finished it in just a few months."
+> Bill Gates
 
 We know that, as humans, we have a hard time understanding how quickly exponential technology can advance. We inevitably underestimate the impact of exponential technology such as AI.
 
