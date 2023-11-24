@@ -189,7 +189,8 @@ How did she and MarketSphere get to this point?
 
 ---
 
-Next: <a href="https://github.com/alanwunsche/agentware-book/blob/main/Chapter-2/Chapter-2.md">Chapter 2: Immersed in the Marketplace</a>
+Next:
+[Chapter 2: Immersed in the Marketplace](./Chapter-2)
 <br />
 
 <hr />
