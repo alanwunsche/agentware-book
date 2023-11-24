@@ -29,7 +29,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 
 [Chapter 2: Immersed in the Marketplace](./Chapter-2)
 <br />
-> As MarketSphere's Chief Product Officer, Ana begins to steer the company towards an AI-centric future in 2024.
+> Hired in 2023 As MarketSphere's Chief Product Officer, Ana begins to steer the company towards an AI-centric future.
 
 [Chapter 3. The Trials Begin](./Chapter-3)
 <br />
