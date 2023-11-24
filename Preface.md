@@ -1,6 +1,4 @@
-# Agentware - The Coming Revolution Automating the Future of Work and Society
-
-## Preface : My Journey From Business Intelligence to Artificial Intelligence 
+# Preface : My Journey From Business Intelligence to Artificial Intelligence 
 
 It seems years ago but ChatGPT hit my consciousness like a flash of bright light less than a year ago, around December 2022.   
 
@@ -84,7 +82,7 @@ October 19, 2023
 <br />
 <br />
 
-Next: [Introduction](https://github.com/alanwunsche/agentware-book/blob/main/_Introduction/introduction.md)
+Next: [Introduction](./introduction)
 
 <br />
 <br />
