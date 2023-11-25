@@ -28,8 +28,6 @@ Lindy (https://lindy.ai)
 Microsoft Copilots (https://copilot.microsoft.com)
 - (Copilots everywhere)
 
-
-
 <br />
 
 ## Chapter 2
