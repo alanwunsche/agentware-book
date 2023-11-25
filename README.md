@@ -65,7 +65,8 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 [Research, References and Inspiration](./Research-References-Inspiration)
 <br />
 > Discover the real-world research that inspired the story.
-
+<br />
+[Subscribe for Updates](#subscribe)
 <br />
 ### Disclaimers 
 The characters in this book are entirely fictional and do not represent any specific real-life individuals. While the narrative may reference current events or technological trends, these are used solely to provide context for the story's speculative future setting. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. The book's portrayal of future developments and technologies is a work of fiction, intended to explore hypothetical scenarios within the realms of artificial intelligence and digital commerce.
@@ -79,5 +80,5 @@ If you're building and deploying AI assistants, copilots or agents, please get i
 All rights reserved. 2023.
 <br /><br />
 
-# Subscribe for Updates {#subscribe}
+### Subscribe for Updates {#subscribe}
 <iframe src="https://embeds.beehiiv.com/3cc28c1e-9ca4-4f1e-9552-89b2f5de0a40" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
