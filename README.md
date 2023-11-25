@@ -66,7 +66,9 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 <br />
 > Discover the real-world research that inspired the story.
 <br />
+
 [Subscribe for Updates](#subscribe)
+
 <br />
 ### Disclaimers 
 The characters in this book are entirely fictional and do not represent any specific real-life individuals. While the narrative may reference current events or technological trends, these are used solely to provide context for the story's speculative future setting. Any resemblance to actual persons, living or dead, or actual events is purely coincidental. The book's portrayal of future developments and technologies is a work of fiction, intended to explore hypothetical scenarios within the realms of artificial intelligence and digital commerce.
