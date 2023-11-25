@@ -12,6 +12,7 @@ Agentware - The Coming Revolution Automating the Future of Work and Society
 > Ilya Sutskever, OpenAI Co-Founder & Chief Scientist 
 
 <br />
+![Chapter 1 Header Image](Chapter-1-a.png)
 
 ### AI Assistants and Advisors
 It's 2030.
