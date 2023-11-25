@@ -16,17 +16,17 @@ US Executive Order and AI Safety Institute
 
 ## Chapter 1
 
-AutoGPT
-- ...
+No Priors: AI, Machine Learning, Tech, & Startups. "No Priors Ep. 39 | With OpenAI Co-Founder & Chief Scientist Ilya Sutskever". YouTube, uploaded by No Priors, November 2, 2023, https://www.youtube.com/watch?v=Ft0gTO2K85A
 
-OpenAI ChatGPT; GPTs; Assistants API
-- ...
+Auto-GPT. https://auto-gpt.ai
 
-Lindy (https://lindy.ai)
-- Your AI Employee
-  
-Microsoft Copilots (https://copilot.microsoft.com)
-- (Copilots everywhere)
+"New models and developer products announced at DevDay". https://openai.com/blog/new-models-and-developer-products-announced-at-devday". OpenAI. Accessed November 6, 2023. 
+
+"Your AI Employee". Lindy. https://lindy.ai. Accessed November 18, 2023.
+
+"Introducing Microsoft Copilot Studio and new features in Copilot for Microsoft 365". https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/introducing-microsoft-copilot-studio-and-new-features-in-copilot-for-microsoft-365/. Microsoft Ignite. November 15, 2023.
+ 
+"Your everyday AI companion". https://copilot.microsoft.com. Microsoft. Accessed November 20, 2023.
 
 <br />
 
