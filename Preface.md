@@ -106,4 +106,4 @@ Through Leading Knowledge, Alan helps clients with data and AI-focused strategic
 
 ---
 
-[Home](./)
+[Home](./) . [Subscribe to Agentware Newsletter](./#subscribe)
