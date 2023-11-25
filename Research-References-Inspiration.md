@@ -7,6 +7,8 @@ This section catalogs the actual products and research that have inspired variou
 
 ## Introduction
 
+Andreesen, Marc. "The Techno-Optimist Manifesto". Andreesen Horowitz, October 16,2023, https://a16z.com/the-techno-optimist-manifesto/.
+
 [State of AI in 2023. McKinsey Quantum Black](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-AIs-breakout-year)
 
 UK Safety Summit
@@ -25,7 +27,7 @@ Auto-GPT. https://auto-gpt.ai
 "Your AI Employee". Lindy. https://lindy.ai. Accessed November 18, 2023.
 
 "Introducing Microsoft Copilot Studio and new features in Copilot for Microsoft 365". https://www.microsoft.com/en-us/microsoft-365/blog/2023/11/15/introducing-microsoft-copilot-studio-and-new-features-in-copilot-for-microsoft-365/. Microsoft Ignite. November 15, 2023.
- 
+
 "Your everyday AI companion". https://copilot.microsoft.com. Microsoft. Accessed November 20, 2023.
 
 <br />
