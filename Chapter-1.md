@@ -21,7 +21,7 @@ It's 2030.
 The screen flickered to life, projecting a holographic display that filled Ana Patel's office with glowing data streams and interactive charts. Outside, the early morning sun cast a golden hue over the Bay, but inside, Ana's focus was entirely on the digital maelstrom swirling before her.
 
 As Ana surveyed the advanced technological marvel she had helped cultivate, she pondered MarketSphere's mission, a touchstone that guided their every innovation and decision:
-    'To revolutionize digital commerce through innovative AI solutions, prioritizing customer empowerment, ethical technology practices, and sustainable growth. MarketSphere aims to lead the industry in responsible AI development, delivering exceptional user experiences and setting new standards for the integration of AI in business.'
+    "To revolutionize digital commerce through innovative AI solutions, prioritizing customer empowerment, ethical technology practices, and sustainable growth. MarketSphere aims to lead the industry in responsible AI development, delivering exceptional user experiences and setting new standards for the integration of AI in business."
     
 This mission was the heartbeat of MarketSphere, embodying their commitment to a future where AI and humanity could thrive together. It hadn't come easily, but it was a vision hard-won, shaped through persistent effort and a steadfast dedication to ethical and technological excellence. 
 
@@ -68,7 +68,7 @@ Ana took a deep breath, steeling herself for the challenges ahead. The journey o
 ***
 
 ### Looking Back at 2023: MarketSphere's New Chief Platform Officer
-Ana reflected back on her early days in 2023. She had been hired as the Chief Platform Officer, by CEO David Mitchell and Board Member, Dr. Emily Martinez who had deep regulations and policy experience. 
+Ana reflected back on early 2023. She had been hired as the Chief Platform Officer, by CEO David Mitchell and Board Member, Dr. Emily Martinez who had deep regulations and policy experience. 
 
 David Mitchell, the CEO at that time, was a figure who commanded both admiration and introspection in the world of technology. A visionary entrepreneur with a storied career in scaling his previous ventures, he had led MarketSphere with a focus on innovation and expansion. However, beneath his forward-looking exterior, David was realizing that he needed fresh thinking to grapple with the ethical implications of AI.
 
@@ -138,9 +138,10 @@ The multi-modal demonstration didn't stop there. Alex showed Ana how ChatGPT cou
 Finally, they prompted ChatGPT to generate images from text. The DALLE3 model generated images that were so realistic that it seemed like magic. Images that once required hours of experienced graphic designers were being generated in seconds.  
 
 She excitedly reported back on her discovery of "Generative AI" to the team. The insights spiraled into a brainstorming about the transformative potential of AI, a pivotal moment that redirected the course of MarketSphere.
+<!--
 
 ### Birth of an AI-First Platform 
-With her co-founders, Ana quickly embarked on a relentless pursuit to harness AI's potential, each contributing a unique blend of skills and perspectives that enriched MarketSphere's DNA. As Petra delved into the behavioral economics of user interactions, Jimmy orchestrated a global product strategy, and Sergio ensured a resonant user experience across the platform, Ana directed the integration of AI, morphing MarketSphere into an entity much larger than the sum of its parts.
+With her team, Ana quickly embarked on a relentless pursuit to harness AI's potential, each contributing a unique blend of skills and perspectives that enriched MarketSphere's DNA. As Petra delved into the behavioral economics of user interactions, Jimmy orchestrated a global product strategy, and Sergio ensured a resonant user experience across the platform, Ana directed the integration of AI, morphing MarketSphere into an entity much larger than the sum of its parts.
 
 Over the coming years she recalls, however, the path to innovation was laden with trials. The night Ana received a barrage of vitriolic messages condemning MarketSphere's AI initiatives was a stark reminder of the resistance they faced. The weight of leading her team through the storm often left her restless, the silence of the night amplifying the doubts that crept into her mind. Would the world ever see the humane intentions behind their digital innovations? The ethical quandary of autonomous digital workers wasn't lost on Ana—she grappled with the moral implications of displacing human labor, the potential for bias in AI decision-making, and the opacity of algorithmic operations in their platform. Yet, she saw a future where AI could alleviate the mundane, leaving humans to pursue more meaningful endeavors.
 
@@ -163,15 +164,14 @@ The external outcries resonated within the halls of MarketSphere. Petra, with he
 MarketSphere waded into the choppy waters of data privacy concerns of using LLMs, where every bit of customer information handled was a potential iceberg. The regulatory uncertainties that swirled around AI threatened to throttle the pace of innovation, with every new jurisdiction they entered presenting a maze of legal and ethical quandaries. 
 
 Amidst these trials, MarketSphere's tangible impact unfolded as planned. There was Maria, a single mother of two, who had crafted a small business around her artisanal candle-making hobby. MarketSphere's intuitive platform allowed her to reach customers far beyond her tiny locale, providing a steady income that transformed her family's life. Then there was the community of crafters in a small town, who, through MarketSphere, found a global audience for their traditional wares, reviving local economies and instilling a sense of pride and hope among the artisans.
+-->
 
 ### The Dawn of Agentware
-Ana also recalls the mind-blowing experience of seeing AI agents for the first time in 2023. Beyond single interactions with a ChatGPT-like interface, the AutoGPT project demonstrated how agents could be created to accept an objective, generate the tasks required to achieve the objective, and then carry out the tasks, such as gathering research.
+Ana also recalls the mind-blowing experience of seeing AI agents for the first time in 2023. Beyond single interactions with a ChatGPT-like interface, the AutoGPT project demonstrated how agents could be created to accept an objective, generate the tasks required to achieve the objective, and then carry out the tasks, such as gathering research.  This "objective-driven" behaviour would eventually be a key that unlocked AI at MarketSphere.
 
 Multi-agent environments were envisioned, where one agent could evaluate the quality of another agent's output.  It was evident that agents would would become standardized when Microsoft released its AutoGen project for multi-agent environments.  
 
 In October 2023, the MarketSphere team attended the inaugural "**AI Engineer Summit**" where they watched Founder Flo Crivello demo [Lindy.ai](https://lindy.ai), his company having raised about $50M to provide "AI employees" that would manage and generate emails, organize calendars, book travel and much more. The concept of hiring "AI agents" was having a breakthrough moment, made possible by interacting with OpenAI's GPT-4 API at the time.      
-
-The team found themselves ultimately orchestrating a marketplace with a minimal human workforce, each cog in the machine executed by a legion of AI co-pilots.
 
 Then in November of 2023, OpenAI had their big DevDay reveal. Ana was in the audience when GPTs were announced. These self-serve versions of ChatGPT could have their own documents which would be accessible knowledge. The demos showed connections to third-party services such as Zapier, making it possible to connect to external services. OpenAI also released their Assistants API.
 
@@ -182,7 +182,7 @@ Then a week later, Microsoft went all in on "copilots", promising to infuse thes
 What is obvious now in hindsight is that 2023 ushered in a new category of "Agentware", a full suite of software infrastructure and front end tools stack that made AI digital workers and digital assistants possible. Agentware would come to include open source LLMs that were fine-tuned to accomplish a specific domain specific task such as marketing or finance.    
 
 ### Orchestrating A Symphony of Copilots
-As Ana sips her morning coffee today, the overnight analytics echo the symphony of orchestrated efforts between her human team and their AI empployees. Each sector of MarketSphere, from marketing to cybersecurity, hums with the melody of innovation, driving the narrative forward towards a future where human-AI collaboration is not just a possibility, but a reality forging a new era of digital commerce.
+As Ana sips her morning coffee in 2030, the overnight analytics echo the symphony of orchestrated efforts between her human team and their AI empployees. Each sector of MarketSphere, from marketing to cybersecurity, hums with the melody of innovation, driving the narrative forward towards a future where human-AI collaboration is not just a possibility, but a reality forging a new era of digital commerce.
 
 In the bustling heart of MarketSphere, Marketing Agents craft dynamic campaigns that resonate across diverse customer segments, their creative prowess fine-tuned with every byte of real-time data. The Customer Service Agents, ever-vigilant, ensure a seamless shopping experience, evolving with each interaction to better serve their customers.
 
