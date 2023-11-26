@@ -5,11 +5,13 @@
 > "Show me the incentive and I will show you the outcome."
 > Charlie Munger
 
+<!--
 Ana forms alliances with colleagues who share her concerns about AI safety. Together, they begin advocating for stronger regulations and safeguards on the platform.
+-->
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 

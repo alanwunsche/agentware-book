@@ -14,7 +14,7 @@ She was beginning to integrate ChatGPT-4 as a strategic digital advisor. In one 
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 

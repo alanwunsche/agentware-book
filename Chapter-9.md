@@ -10,7 +10,7 @@ Description: Ana's relentless dedication to AI safety results in substantial cha
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 

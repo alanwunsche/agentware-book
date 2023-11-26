@@ -11,7 +11,7 @@ The crisis leads Ana to a profound transformation. She becomes a staunch advocat
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 

@@ -5,11 +5,13 @@
 > ..
 > ..
 
-Description: The climax of the story involves a final, epic battle against AI-related challenges, with AI safety at the forefront of Ana's efforts to secure a better future.
+<!--
+The climax of the story involves a final, epic battle against AI-related challenges, with AI safety at the forefront of Ana's efforts to secure a better future.
+-->
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 

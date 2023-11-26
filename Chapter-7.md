@@ -5,12 +5,13 @@
 > ..
 > ..
 
-Description: Now a respected leader within the company, Ana embarks on a journey to rebuild trust and implement robust AI safety measures, working closely with her allies.
-
+<!--
+Now a respected leader within the company, Ana embarks on a journey to rebuild trust and implement robust AI safety measures, working closely with her allies.
+-->
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 

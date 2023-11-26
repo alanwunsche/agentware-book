@@ -5,11 +5,15 @@
 >
  
 
-Description: An AI safety crisis rocks Marketsphere, putting Ana's newfound convictions to the test. She takes a leading role in addressing the situation and emphasizes the importance of safety measures.
+<!--
+An AI safety crisis rocks Marketsphere, putting Ana's newfound convictions to the test. She takes a leading role in addressing the situation and emphasizes the importance of safety measures.
+-->
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
+
+---
 
 ### Contact and Comment:
 

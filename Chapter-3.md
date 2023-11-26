@@ -6,11 +6,13 @@
 >   "Can we build AI without losing control over it?", Sam Harris, TED Talk, 2016.
 
 
+<!--
 Description: Ana faces initial obstacles and ethical dilemmas related to AI safety as she witnesses AI agents' actions that inadvertently spread misinformation. She grapples with the need for safeguards.
+-->
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 
