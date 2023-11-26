@@ -34,11 +34,12 @@ Auto-GPT. https://auto-gpt.ai
 
 ## Chapter 2
 
-Ada (https://ada.cx)
-- "A full customer service team, powered by AI"
-- AI Agents Reasoning Engine
+Ada. "Onboard a top performing AI Agent". https://www.ada.cx/platform. Ada. Accessed November 20, 2023
+- "The AI Agent that solves unique problems with personalized resolutions"
+- "Replace script-heavy, hard-coded chatbots with a powerful AI Agent that’s easy to deploy and continuously improve."
+  
 
-YouAI MindStudio (https://youai.ai)
+YouAI MindStudio. https://youai.ai. Youai.ai. Accessed November 20, 2023
 - The Fastest Way To Build AI-Powered Apps
 - Create custom AIs for consumers, SMBs, and enterprises - no coding required.
 
