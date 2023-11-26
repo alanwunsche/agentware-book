@@ -66,8 +66,8 @@ Ana took a deep breath, steeling herself for the challenges ahead. The journey o
 
 ***
 
-### Looking Back at 2023: MarketSphere's New Chief Product Officer
-Ana reflected back on her early days in 2023. She had been hired as the Chief Product Officer, by CEO David Mitchell and Board Member, Dr. Emily Martinez who had deep regulations and policy experience. 
+### Looking Back at 2023: MarketSphere's New Chief Platform Officer
+Ana reflected back on her early days in 2023. She had been hired as the Chief Platform Officer, by CEO David Mitchell and Board Member, Dr. Emily Martinez who had deep regulations and policy experience. 
 
 David Mitchell, the CEO at that time, was a figure who commanded both admiration and introspection in the world of technology. A visionary entrepreneur with a storied career in scaling his previous ventures, he had led MarketSphere with a focus on innovation and expansion. However, beneath his forward-looking exterior, David was realizing that he needed fresh thinking to grapple with the ethical implications of AI.
 
@@ -81,7 +81,7 @@ Dr. Martinez's advocacy for responsible AI practices was a driving force behind 
 
 This belief was grounded in Dr. Martinez's understanding that the future of AI in commerce wasn't just about technological superiority, but also about navigating the intricate web of ethical and regulatory challenges. Her support for Ana was more than an endorsement of her skills; it was a strategic decision aimed at shaping the company's future in a rapidly evolving digital world.
 
-Ana was excited to embark on a new journey at MarketSphere, a company with a solid foundation in the online commerce arena. With her background in Computer Science and a Master's degree specializing in digital marketplaces, this was her Chief Product Officer role, but Ana was not just another addition to the team; she was a catalyst for transformation. MarketSphere recognized her potential and entrusted her with a critical mission: to spearhead the company's transition into an AI-driven future.
+Ana was excited to embark on a new journey at MarketSphere, a company with a solid foundation in the online commerce arena. With her background in Computer Science and a Master's degree specializing in digital marketplaces, this was her Chief Platform Officer role, but Ana was not just another addition to the team; she was a catalyst for transformation. MarketSphere recognized her potential and entrusted her with a critical mission: to spearhead the company's transition into an AI-driven future.
 
 * * * 
 
