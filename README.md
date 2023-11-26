@@ -2,11 +2,13 @@
 
 # Overview 
 
-Explore the transformative impact of AI agents, copilots, assistants, and digital knowledge workers on business operations and societal dynamics. Delve into the current challenges and envision a future where AI's presence is both inevitable and pervasive.
+Time travel through the AI decade from 2023 to 2030, a future where AI is both inevitable and pervasive. Explore the transformative impact of AI agents, copilots, assistants, and digital knowledge workers on business operations and societal dynamics. Delve into the widespread automation of business processes, the meaning of work and the trade-offs en route to hyper-productivity.
 
-Ana Patel, a determined and forward-thinking software engineer, rises from Chief Product Officer to CEO at MarketSphere, a global digital store that infuses AI into the platform on her watch. A techno-optimist, Ana tackles ethical and governance challenges while pioneering AI advancements in an increasingly competitive digital commerce landscape. Amidst internal strife over rogue AI agents and external pressures for AI safety, ethics and privacy, she steers her company through the turbulent waters of an AI-centric, agentic, and hyper-personalized era.
+Ana Patel, a determined and forward-thinking software engineer, rises from Chief Product Officer to CEO at MarketSphere, infusing AI into every business process in the global digital store. As superintelligence becomes scalable, MarketSphere augments it with its vast customer data and deploys hyper-productive personalized marketing and customer service agents. No longer copilots or assistants, MarketSphere's agents evolve to become trusted knowledge workers, capable of making real-time decisions as they respond to customer queries around the clock.
 
-How did she navigate the most transformative digital decade that society and humanity has seen to date? What qualities made her the right leader for the role? 
+A techno-optimist, Ana is recognized globally for pioneering the Neural Lake but her path is uncharted and fraught with risk. Ana undergoes a personal transformation as she tackles heart-wrenching ethical and governance challenges, including the displacement of vast numbers of human resources. Amidst internal strife over rogue AI agents and external pressures for AI safety, ethics and privacy, she steers her company through the turbulent waters of an AI-centric, agentic, and hyper-personalized era. 
+
+How did Ana navigate the most transformative digital decade that society and humanity has seen to date? What qualities made her the right leader for the role? What was the cost of her personal transformation? 
 
 Experience Ana's tumultuous journey into the AI frontier and gain insights from her lessons.
 
