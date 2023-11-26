@@ -12,7 +12,7 @@ Description: The story concludes with Ana looking ahead to a promising future, w
 
 ---
 
-Full preview coming soon.
+Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 
