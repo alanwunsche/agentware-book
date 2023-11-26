@@ -1,6 +1,6 @@
 # Chapter 4: Allies in the Digital Frontier
 
-<br /><br />
+<br />
 > "Show me the incentive and I will show you the outcome."
 > Charlie Munger
 
