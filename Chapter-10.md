@@ -1,4 +1,5 @@
-# Chapter 10: A Harmonious Tomorrow
+# Chapter 10
+# A Harmonious Tomorrow
 
 
 > ..
