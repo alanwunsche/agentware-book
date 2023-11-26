@@ -1,4 +1,5 @@
-# Chapter 9: Reshaping the Digital Landscape
+# Chapter 9
+# Reshaping the Digital Landscape
 
 > ..
 > ..

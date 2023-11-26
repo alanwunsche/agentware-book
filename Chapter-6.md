@@ -1,4 +1,5 @@
-# Chapter 6: Awakening Conscience
+# Chapter 6
+# Awakening Conscience
 
 > "We believe intelligence is the ultimate engine of progress. Intelligence makes everything better. Smart people and smart societies outperform less smart ones on virtually every metric we can measure. Intelligence is the birthright of humanity; we should expand it as fully and broadly as we possibly can."
 > "We believe in Augmented Intelligence just as much as we believe in Artificial Intelligence. Intelligent machines augment intelligent humans, driving a geometric expansion of what humans can do."

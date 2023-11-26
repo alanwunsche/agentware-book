@@ -1,4 +1,5 @@
-# Chapter 8: Battle for the Future
+# Chapter 8
+# Battle for the Future
 
 > ..
 > ..

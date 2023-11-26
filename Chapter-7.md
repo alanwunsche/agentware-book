@@ -1,4 +1,5 @@
-# Chapter 7: Journey to Redemption
+# Chapter 7
+# Journey to Redemption
 
 > ..
 > ..

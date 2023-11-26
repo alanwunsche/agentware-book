@@ -3,7 +3,8 @@
 Agentware - The Coming Revolution Automating the Future of Work and Society 
 
 -->
-# Chapter 1: Unveiling Possibilities
+# Chapter 1
+# Unveiling Possibilities
 
 <br />
 

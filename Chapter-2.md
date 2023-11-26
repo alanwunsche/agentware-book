@@ -1,4 +1,5 @@
-# Chapter 2: Immersed in the Marketplace
+# Chapter 2
+# Immersed in the Marketplace
 
 > "We have about a hundred million weekly active users now on ChatGPT"
 > 

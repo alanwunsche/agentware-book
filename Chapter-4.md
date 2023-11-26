@@ -1,4 +1,5 @@
-# Chapter 4: Allies in the Digital Frontier
+# Chapter 4
+# Allies in the Digital Frontier
 
 <br />
 > "Show me the incentive and I will show you the outcome."
