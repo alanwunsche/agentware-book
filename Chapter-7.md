@@ -3,7 +3,7 @@
 
 > ..
 > ..
-> ..
+> Tristan Harris, Centre for Human Technology.Ce
 
 <!--
 Now a respected leader within the company, Ana embarks on a journey to rebuild trust and implement robust AI safety measures, working closely with her allies.
