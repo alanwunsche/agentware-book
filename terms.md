@@ -22,4 +22,4 @@ https://en.wikipedia.org/wiki/Transformer_(machine-learning_model)
 
 ---
 
-[Home](./) . [Subscribe to Agentware Newsletter](./#subscribe)
+[Home](./) . [Subscribe to Updates](./#subscribe)

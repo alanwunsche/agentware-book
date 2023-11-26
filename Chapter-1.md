@@ -224,4 +224,4 @@ Chapter 1 References
 
 ---
 
-[Home](./)
+[Home](./) . [Subscribe to Updates](./#subscribe)

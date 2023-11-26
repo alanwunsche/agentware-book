@@ -21,4 +21,4 @@ Preview coming soon. [Subscribe for updates](./#subscribe)
 
 ---
 
-[Home](./)
+[Home](./) . [Subscribe to Updates](./#subscribe)
