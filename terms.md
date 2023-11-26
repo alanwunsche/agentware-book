@@ -19,3 +19,7 @@ https://en.wikipedia.org/wiki/Transformer_(machine-learning_model)
 
 ### Turing Test {#turing-test}
 
+
+---
+
+[Home](./) . [Subscribe to Agentware Newsletter](./#subscribe)
