@@ -85,6 +85,9 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > Discover the real-world research that inspired the story.
 <br />
 
+[Terms](./terms)
+
+
 [Subscribe for Updates](#subscribe)
 
 <br />
