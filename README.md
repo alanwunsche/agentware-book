@@ -37,6 +37,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 
 [Read Chapter 1 Preview](./Chapter-1)
 
+
 [Chapter 2: Embarking on the AI Journey](./Chapter-2)
 
 > Hired in 2023 As MarketSphere's Chief Platform Officer, Ana begins to steer the company towards an AI-centric future with early AI forms of assistants to augment her team's internal roles.
