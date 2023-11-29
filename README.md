@@ -42,7 +42,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 [Chapter 2: Embarking on the AI Journey](./Chapter-2)
 
 > Hired in 2023 As MarketSphere's Chief Platform Officer, Ana begins to steer the company towards an AI-centric future with early AI forms of assistants to augment her team's internal roles.
-> AI agents acting on behalf of customers make their debut.
+> AI assistants make their debut.
 > Ana collaborates with Julia Anderson, MarketSphere CTO, on a roadmap for MarketSphere's future superintelligent Neural Lake.
 > Ana and Julia present their bold bet to the Board.
 
