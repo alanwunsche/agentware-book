@@ -37,7 +37,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > The events of 2023 are on full display. 
 
 [Read Chapter 1 Preview](./Chapter-1)
-<br />
+<br /><br />
 
 [Chapter 2: Embarking on the AI Journey](./Chapter-2)
 
