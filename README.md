@@ -32,7 +32,8 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 [Chapter 1: Unveiling Possibilities](./Chapter-1)
 
 > Ana Patel, CEO of MarketSphere, showcases the advanced capabilities of her AI agents in 2030
-> Reflects on her journey from Chief Platform Officer in 2023.  
+> Reflects on her journey from Chief Platform Officer in 2023.
+> The events of 2023 are on full display. 
 
 [Read Chapter 1 Preview](./Chapter-1)
 
