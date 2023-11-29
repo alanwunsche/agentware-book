@@ -47,6 +47,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > Ana and Julia present their bold bet to the Board.
 
 [Read Chapter 2 Preview](./Chapter-2)
+<br /><br />
 
 [Chapter 3. The Trials Begin](./Chapter-3)
 
@@ -54,6 +55,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > She grapples with the need for safeguards to rebuild trust.
 
 [Read Chapter 3 Preview](./Chapter-3)
+<br /><br />
 
 ### Part Two. The Challenge
 [Chapter 4. Allies in the Digital Frontier](./Chapter-4)
@@ -62,6 +64,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > Ana forms a dedicated team to address AI ethics and safety within MarketSphere.
 
 [Read Chapter 4 Preview](./Chapter-4)
+<br /><br />
 
 [Chapter 5. Crisis in Code](./Chapter-5)
 
@@ -70,6 +73,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > Successful human-AI collaboration showcases a balanced approach to AI deployment. 
 
 [Read Chapter 5 Preview](./Chapter-5)
+<br /><br />
 
 [Chapter 6. Awakening Conscience](./Chapter-6)
 
@@ -77,6 +81,7 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > She becomes a staunch advocate for ethics, regulation, and AI safety, determined to prevent further harm.
 
 [Read Chapter 6 Preview](./Chapter-6)
+<br /><br />
 
 [Chapter 7. Journey to Redemption](./Chapter-7)
 
@@ -84,8 +89,8 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > Now a respected leader within the company, Ana embarks on a journey to rebuild trust and implement robust AI safety measures, working closely with her allies.
 
 [Read Chapter 7 Preview](./Chapter-7)
+<br /><br />
 
-<br />
 ### Part Three. The Transformation 
 [Chapter 8. Battle for the Future](./Chapter-8)
 
@@ -93,12 +98,14 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 > Public outcry ensues, and Ana ensures transparenct and fairness within MarketSphere's Neural Lake.
 
 [Read Chapter 8 Preview](./Chapter-8)
+<br /><br />
 
 [Chapter 9. Reshaping the Digital Landscape](./Chapter-9)
 
 > Ana's relentless dedication to AI safety results in substantial changes to the AI landscape, ensuring a safer and more beneficial future for AI agents and Marketsphere.
 
 [Read Chapter 9 Preview](./Chapter-9)
+<br /><br />
 
 [Chapter 10. A Harmonious Tomorrow](./Chapter-10)
 
