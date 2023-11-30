@@ -2,7 +2,7 @@
 
 # Overview 
 
-Humanity is on an exponential journey to superintelligence which began with large language models (LLMs) and ChatGPT in 2023. By 2030, AI will be both inevitable and pervasive. For decades we've imagined software "agents" that can truly understand us, and that we trust enough to complete work for us. LLMs finally deliver these digital genies.
+Humanity is on an accelerating journey towards superintelligence, driven in 2023 by large language models (LLMs) and ChatGPT, which amazed even its creators. By 2030, AI will be both inevitable and pervasive. For decades we've imagined software "agents" that can truly understand us, and that we trust enough to complete work for us. LLMs finally deliver these digital genies.
 
 This book is your guide to the transformative impact AI agents, copilots, assistants, and digital knowledge workers on commerce, work and society.  As these agents form a new software layer, which will be known as agentware, we'll witness widespread automation of white collar business processes and changes to the very meaning of work. We'll all make trade-offs en route to hyper-productivity and hyper-personalization that frees us up from mundane tasks. Optomists see the cancer-curing innovations now possible, while pessimists see extraordinary job displacements occuring nearly overnight since we won't be ready to absorb these new superintelligent workers and pivot ourselves to other work.   
 
