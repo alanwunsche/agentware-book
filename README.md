@@ -24,6 +24,10 @@ Alan Wunsche, CEO of Leading Knowledge Labs, has been a pioneer in the technolog
 
 Alan's current focus at Leading Knowledge is guiding organizations through the complexities of AI, leveraging his deep technical expertise to transform enterprise processes. A techno-optimist, Alan's futuristic book project ***"Agentware - The Coming Revolution Automating the Future of Work and Society"*** reflects his keen interest in how autonomous software AI agents will reshape business and society.
 
+<div style="text-align: center;">
+* * *
+</div>
+
 ## Chapter Previews
 
 [Preface](./Preface)
