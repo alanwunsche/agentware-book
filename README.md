@@ -2,15 +2,19 @@
 
 # Overview 
 
-Time travel through the AI decade from 2023 to 2030, a future where AI is both inevitable and pervasive. Explore the transformative impact of AI agents, copilots, assistants, and digital knowledge workers on business operations and societal dynamics. Delve into the widespread automation of business processes, the meaning of work and the trade-offs en route to hyper-productivity.
+Humanity is on an exponential digital journey, which began with large language models and ChatGPT in 2023 to 2030, where AI will be both inevitable and pervasive. Imagined for decades, software agents that truly understand us and we trust to complete work for us are now possible. This book is your guide to the transformative impact of AI genies -- the AI agents, copilots, assistants, and digital knowledge workers -- on commerce, work and society.  As these agents form a new software layer, call it agentware, we'll witness widespread automation of white collar business processes and changes to the very meaning of work. We'll make trade-offs en route to hyper-productivity and hyper-personalization. Optomists see the cancer-curing innovations, while pessimists see job displacements occuring nearly overnight since we may not be ready to absorb these new superintelligent workers and pivot our human resources.   
 
-Ana Patel, a determined and forward-thinking software engineer, rises from Chief Platform Officer to CEO at MarketSphere, infusing AI into every business process in the global digital store. As superintelligence becomes scalable, MarketSphere augments it with its vast customer data and deploys hyper-productive and personalized customer relationship agents. No longer just copilots or assistants, MarketSphere's agents evolve to become trusted knowledge workers, capable of making real-time decisions as they respond to customer queries around the clock. The dynamic of commerce undergoes a revolutionary shift as these interactions are increasingly initiated by the customers' own AI agents, ushering in a new era of AI-driven commerce.  
+Ana Patel, a determined and forward-thinking software engineer, rises from Chief Platform Officer to CEO at MarketSphere.  She infuses AI into every business process in the global digital store. As superintelligence becomes scalable, MarketSphere augments it with its vast customer data and deploys hyper-productive and personalized customer relationship agents. No longer just copilots or assistants, MarketSphere's agents evolve to become trusted knowledge workers, capable of making real-time decisions as they respond to customer queries around the clock. The dynamics of commerce undergoes a revolutionary shift as these interactions are increasingly initiated by the customers' own AI agents, ushering in a new era of AI-driven commerce.  
 
-A techno-optimist, Ana is recognized globally for pioneering the super intelligent Neural Lake, a new combination of data and AI agents that can learn and self-improve. Her path is uncharted and fraught with risk. Ana undergoes a personal transformation as she tackles heart-wrenching ethical and governance challenges, including the displacement of vast numbers of human resources. Amidst internal strife over rogue AI agents and external pressures for AI safety, ethics and privacy, she steers her company through the turbulent waters of an AI-centric, agentic, and hyper-personalized era. 
+A techno-optimist, Ana is recognized globally for pioneering the superintelligent Neural Lake, a new combination of data and AI agents that learn and self-improve in the cloud. Her path is uncharted and fraught with risk. Ana undergoes a personal transformation as she tackles heart-wrenching ethical and governance challenges, including the displacement of vast numbers of human resources. Amidst internal strife over rogue AI agents and external pressures for AI safety, ethics and privacy, she steers her company through the turbulent waters of an AI-centric, agentic, and hyper-personalized era. 
 
-How did Ana navigate the most transformative digital decade that society and humanity has seen to date? What qualities made her the right leader for the role? What was the cost of her personal transformation? 
+How does Ana navigate the most transformative digital decade that society and humanity has seen to date? What qualities made her the right leader for the role? What was the cost of her personal transformation? 
 
-Experience Ana's tumultuous journey into the AI frontier and gain insights from her lessons.
+Experience Ana's tumultuous journey at the AI frontier and gain insights for your own personal and business strategies.
+
+<div style="text-align: center;">
+* * *
+</div>
 
 ## About the Author
 
