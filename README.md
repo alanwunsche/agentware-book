@@ -1,5 +1,6 @@
 ### Subscribe for Updates {#subscribe}
-<iframe src="https://embeds.beehiiv.com/3cc28c1e-9ca4-4f1e-9552-89b2f5de0a40" data-test-id="beehiiv-embed" width="100%" height="320" frameborder="0" scrolling="no" style="border-radius: 4px; border: 2px solid #e5e7eb; margin: 0; background-color: transparent;"></iframe>
+
+<iframe src="https://agentware.substack.com/embed" width=100% height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 ![Cover](./Agentware-Cover.jpg)
 
@@ -31,14 +32,6 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 
 ## Chapter Previews
 
-[Preface](Preface-2.txt)
-<br />
-> My Journey from Business Intelligence to Artificial Intelligence.
-
-[Introduction](./Introduction)
-<br />
-> A deep dive into the rapid acceleration of Generative AI during 2023, to set the stage for Agentware.
-
 ### Part One. The Awakening
 [Chapter 1: Unveiling The Digital Tomorrow](./Chapter-1)
 ![Chapter 1 Header Image](Chapter-1-a.png)
@@ -50,99 +43,6 @@ Alan's current focus at Leading Knowledge is guiding organizations through the c
 [Read Chapter 1 Preview](./Chapter-1)
 <br /><br />
 
-[Chapter 2: Embarking on the AI Journey](./Chapter-2)
-
-> Hired in 2023 As MarketSphere's Chief Platform Officer, Ana begins to steer the company towards an AI-centric future with early AI forms of assistants to augment her team's internal roles.
-> AI assistants make their debut.
-> Ana collaborates with Julia Anderson, MarketSphere CTO, on a roadmap for MarketSphere's future superintelligent Neural Lake.
-> Ana and Julia present their bold bet to the Board.
-
-[Read Chapter 2 Preview](./Chapter-2)
-<br /><br />
-
-[Chapter 3. The Trials Begin](./Chapter-3)
-
-> Ana faces initial obstacles and ethical dilemmas related to AI safety as she witnesses AI agents' actions that inadvertently spread misinformation.
-> She grapples with the need for safeguards to rebuild trust.
-
-[Read Chapter 3 Preview](./Chapter-3)
-<br /><br />
-
-### Part Two. The Challenge
-[Chapter 4. The Disquieting Discovery](./Chapter-4)
-
-> Feeling isolated in her growing concerns about AI, Ana reaches out to like-minded colleagues and the Board.
-> Ana forms a dedicated team to address AI ethics and safety within MarketSphere.
-
-[Read Chapter 4 Preview](./Chapter-4)
-<br /><br />
-
-[Chapter 5. Crisis in Code](Chapter-6.md)
-
-> A significant financial crisis caused by an AI agent's error tests Ana's convictions and leadership.
-> Ana implements new oversight of AI-to-AI interactions. 
-> Successful human-AI collaboration showcases a balanced approach to AI deployment. 
-
-[Read Chapter 5 Preview](Chapter-6.md)
-<br /><br />
-
-[Chapter 6. Awakening Conscience](Chapter-7.md)
-
-> The crisis leads Ana to a profound transformation as Ana advocates for responsible AI-to-AI interaction standards.
-> She becomes a staunch advocate for ethics, regulation, and AI safety, determined to prevent further harm.
-
-[Read Chapter 6 Preview](Chapter-7.md)
-<br /><br />
-
-[Chapter 7. The Collective Mind](Chapter-8.md)
-
-> Ana's team uncovers a startling evolution of their AI agents into a form of collective intelligence, leading to intricate ethical and safety challenges that challenge their understanding of AI's potential and risks.
-
-[Read Chapter 6 Preview](Chapter-8.md)
-<br /><br />
-
-
-[Chapter 8. Journey to Redemption](Chapter-9.md)
-
-> MarketSphere rebuilds trust in AI-to-AI negotiations and transactions. 
-> Now a respected leader within the company, Ana embarks on a journey to rebuild trust and implement robust AI safety measures, working closely with her allies.
-
-[Read Chapter 8 Preview](Chapter-9.md)
-<br /><br />
-
-### Part Three. The Transformation 
-[Chapter 9. Battle for the Future](Chapter-10.md)
-
-> MarketSphere is involved in a final, epic battle against AI-related challenges, with AI safety at the forefront of Ana's efforts to secure a better future.
-> Public outcry ensues, and Ana ensures transparenct and fairness within MarketSphere's Neural Lake.
-
-[Read Chapter 9 Preview](Chapter-10.md)
-<br /><br />
-
-[Chapter 10. Reshaping the Digital Landscape](Chapter-11.md)
-
-> Ana's relentless dedication to AI safety results in substantial changes to the AI landscape, ensuring a safer and more beneficial future for AI agents and Marketsphere.
-[Chapter 11. A Harmonious Tomorrow](Chapter-12.md)
-
-<br /><br />
-
-[Read Chapter 11 Preview](Chapter-12.md)
-
-> Ana looks ahead to a promising future, where AI agents coexist harmoniously with humanity, thanks in no small part to her commitment to AI safety.
-
-
-<br /><br />
-
-[Conclusion](./Conclusion)
-<br />
-
-<br />
-[Research, References and Inspiration](./Research-References-Inspiration)
-<br />
-> Discover the real-world research that inspired the story.
-<br />
-
-[Terms](./terms)
 
 
 [Subscribe for Updates](#subscribe)
